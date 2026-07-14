@@ -22,5 +22,5 @@ By ingesting combined telemetry and utilizing an **Isolation Forest** anomaly de
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/yourusername/snooplog.git](https://github.com/yourusername/snooplog.git)
+git clone [https://github.com/herobhai69/snooplog.git](https://github.com/herobhai69/snooplog.git)
 cd snooplog
