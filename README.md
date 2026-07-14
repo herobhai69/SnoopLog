@@ -69,7 +69,7 @@ streamlit run app.py
 
 ```
 snooplog/
-├── finspark/              # Virtual environment directory (generated locally, do not commit)
+├── finspark/              # Virtual environment directory (generated locally)
 ├── app.py                 # The Streamlit frontend and UI layout
 ├── anomaly_engine.py      # The ML model, data ingestion, and rules engine
 ├── gen_data.py            # Script to generate the synthetic test logs
