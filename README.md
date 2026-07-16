@@ -20,6 +20,10 @@ By ingesting combined telemetry and utilizing an **Isolation Forest** anomaly de
 - **Machine Learning:** Scikit-Learn (Isolation Forest)
 - **Frontend Dashboard:** Streamlit
 
+## 📸 Video
+SnoopLogHackathon.mp4
+<video src="SnoopLogHackathon.mp4" width="100%" controls></video>
+
 ## 🚀 Quick Start Guide
 
 ### 1. Clone the repository
