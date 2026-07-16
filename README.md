@@ -21,7 +21,7 @@ By ingesting combined telemetry and utilizing an **Isolation Forest** anomaly de
 - **Frontend Dashboard:** Streamlit
 
 ## 📸 Video
-SnoopLogHackathon.mp4
+SnoopLogHackathon.mp4 - [Youtube](https://www.youtube.com/watch?v=1yIgfY40piQ)
 
 
 https://github.com/user-attachments/assets/ea696132-95f2-4814-952e-f5319ad0719e
