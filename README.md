@@ -22,6 +22,13 @@ By ingesting combined telemetry and utilizing an **Isolation Forest** anomaly de
 
 ## 📸 Video
 SnoopLogHackathon.mp4
+
+
+https://github.com/user-attachments/assets/ea696132-95f2-4814-952e-f5319ad0719e
+
+
+
+
 <video src="SnoopLogHackathon.mp4" width="100%" controls></video>
 
 ## 🚀 Quick Start Guide
